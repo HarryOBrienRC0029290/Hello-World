@@ -19,7 +19,7 @@ namespace Hello_World
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Check D Creps Der My Man");
+            MessageBox.Show("Goodbye");
         }
     }
 }
